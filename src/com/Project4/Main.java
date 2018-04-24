@@ -29,10 +29,8 @@ public class Main {
 
         GetSoupImg(soupPage);
         WaitForEnter();
-
         GetNutritionImg(soupPage);
         WaitForEnter();
-
         GetIngredients(soupPage);
 
     }
